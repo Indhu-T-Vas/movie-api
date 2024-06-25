@@ -15,6 +15,4 @@ Provide a movie api for React js app.
 
 1. SQL - MySQL, MariaDB, PostgreSQL
 2. NoSQL - MongoDB
-   Username - indhutharunkumar
-   Password - Zh5ZKTxH57fZvnu6
-   url - mongodb+srv://indhutharunkumar:Zh5ZKTxH57fZvnu6@cluster0.yefjhgh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
